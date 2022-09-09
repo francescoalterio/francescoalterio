@@ -5,7 +5,7 @@
 
 <p align="center">Soy <strong>Desarrollador React</strong><br />¡Descarga mi CV👇!</p>
 <p align="center">
-   <a href="https://francescoalterio.vercel.app/cv.pdf" target="blank">
+   <a href="https://francescoalterio.vercel.app/cv.pdf" target="__blank">
     Descargar CV
   </a>
 </p>
@@ -13,7 +13,7 @@
 <p align="center">
  <strong>Quieres mas informacion sobre todos mis proyectos?</strong> <br /> Visita mi Portafolio 👇</strong>
    <p align="center">
-      <a href="https://francescoalterio.vercel.app" target="blank">
+      <a href="https://francescoalterio.vercel.app" target="__blank">
        Ir al Portafolio
      </a>
    </p>
@@ -22,7 +22,7 @@
 <p align="center">
  <strong>¡Tambien tengo un canal de youtube!👇</strong>
    <p align="center">
-      <a href="https://www.youtube.com/channel/UCgX7Wp7QOG0PSTuLh-MVN7Q" target="blank">
+      <a href="https://www.youtube.com/channel/UCgX7Wp7QOG0PSTuLh-MVN7Q" target="__blank">
        Ir a Youtube
      </a>
    </p>
