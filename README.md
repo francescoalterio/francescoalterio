@@ -5,7 +5,7 @@
 
 <p align="center">Soy <strong>Desarrollador React</strong><br />¡Descarga mi CV👇!</p>
 <p align="center">
-   <a href="https://francescoalterio.vercel.app" target="blank">
+   <a href="https://francescoalterio.vercel.app/cv.pdf" target="blank">
     Descargar CV
   </a>
 </p>
