@@ -3,12 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Francesco Alterio 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador React</strong><br />¡Descarga mi CV👇!</p>
-<p align="center">
-   <a href="https://francescoalterio.vercel.app/cv.pdf" target="__blank">
-    Descargar CV
-  </a>
-</p>
+<p align="center">Soy <strong>Desarrollador React</strong><br /></p>
 
 <p align="center">
  <strong>Quieres mas informacion sobre todos mis proyectos?</strong> <br /> Visita mi Portafolio 👇</strong>
