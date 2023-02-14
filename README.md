@@ -3,7 +3,7 @@
    <h3 align="center">¡Hola 👋! Soy Francesco Alterio 👨🏻‍💻</h3>
 </p>
 
-<p align="center">Soy <strong>Desarrollador React</strong><br /></p>
+<p align="center">Soy <strong>Desarrollador Fullstack</strong><br /></p>
 
 <p align="center">
  <strong>Quieres mas informacion sobre todos mis proyectos?</strong> <br /> Visita mi Portafolio 👇</strong>
