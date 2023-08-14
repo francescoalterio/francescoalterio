@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://francescoalterio.vercel.app/yocirculo.png" />
+   <img align="center" width="200" src="https://francescoalterio.com/yocirculo.png" />
    <h3 align="center">¡Hola 👋! Soy Francesco Alterio 👨🏻‍💻</h3>
 </p>
 
@@ -8,7 +8,7 @@
 <p align="center">
  <strong>Quieres mas informacion sobre todos mis proyectos?</strong> <br /> Visita mi Portafolio 👇</strong>
    <p align="center">
-      <a href="https://francescoalterio.tech" target="__blank">
+      <a href="https://francescoalterio.com" target="__blank">
        Ir al Portafolio
      </a>
    </p>
